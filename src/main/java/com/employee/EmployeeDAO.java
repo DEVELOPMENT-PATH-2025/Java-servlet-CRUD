@@ -11,7 +11,7 @@ public class EmployeeDAO {
 
     public static Connection getConnection() throws ClassNotFoundException, SQLException {
     	Class.forName("com.mysql.cj.jdbc.Driver");
-        Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/sectiona", "root", "12345");
+        Connection con = DriverManager.getConnection("jdbc:mysql://34.30.151.18:3306/sectiona", "root", "Amritanshu@123");
         return con;
     }
 
