@@ -24,7 +24,3 @@ String pass = "<password>";
 ```
 
 Change the fields within <> with your specific machine instances
-
-## Author
-
-Suyash Shrestha
