@@ -4,7 +4,6 @@
 
 This webapp is used to perform basic CRUD functionalities using core JAVA for backend using _java servlets_, and _mySQL_ as database.
 
-It is part of the learning project during internship period.
 
 In this webapp, 
 - Used JDBC Driver to connect to mySQL database
